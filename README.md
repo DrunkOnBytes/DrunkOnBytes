@@ -4,6 +4,10 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<p><em>Graduated from <a href="https://vtu.ac.in/">Visvesvaraya Technological University
+</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</em></p>
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/drunkonbytes?label=Follow)](https://twitter.com/intent/follow?screen_name=drunkonbytes)
 [![Linkedin: Arjun](https://img.shields.io/badge/-Arjun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drunkonbytes/)](https://www.linkedin.com/in/drunkonbytes/)
 [![GitHub followers](https://img.shields.io/github/followers/drunkonbytes?label=Follow&style=social)](https://github.com/DrunkOnBytes)
