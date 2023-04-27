@@ -28,7 +28,7 @@
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Flutter", "Python", "C++", "Java", "SQL"],
+    code: ["Flutter", "Python", "C++", "Java", "Golang"],
     askMeAbout: ["app dev", "tech", "personal finance", "anime"],
     technologies: {
         backEnd: {
