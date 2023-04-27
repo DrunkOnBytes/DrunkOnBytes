@@ -35,19 +35,13 @@
 - 👯 I’m looking to collaborate on Flutter Projects.
 - 🤔 I’m looking for help with finding relevant open source proects to contribute to.
 - 💬 Ask me about Android, Flutter, Python, Firebase and TensorFlow!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/arjun-sinha-366a79192/), [Mail](mailto:arjunsinha2122000@gmail.com)
+- 📫 How to reach me: [GitHub](https://github.com/drunkonbytes), [Linkedin](https://www.linkedin.com/in/arjun-sinha-366a79192/), [Mail](mailto:arjunsinha2122000@gmail.com)
 - 😄 Pronouns: he/his/him
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ryuukenshi.ryuukenshi)  
 
 <br />
 <br />
 <br />
-<a href="https://github.com/drunkonbytes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drunkonbytes&theme=dark" height="220px"/>
-</a>
-<a href="https://github.com/drunkonbytes">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=drunkonbytes&show_icons=true&theme=radical&line_height=27" alt="Arjun's github stats" height="220px" />
-</a>
 
 <p align="center">
   <img src="https://github.com/Faiz-Rhm/Faiz-Rhm/raw/output/github-contribution-grid-snake.svg" alt="snake">
