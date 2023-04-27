@@ -26,7 +26,7 @@ Graduated from <a href="https://vtu.ac.in/">Visvesvaraya Technological Universit
                                                                                                                           
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" height="350px"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="450px"/>
 
 ```javascript
 const anmol = {
