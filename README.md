@@ -2,6 +2,8 @@
 নমস্কার (Namaste)🙏🏻, I'm Arjun Sinha!
 <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="400px"/>
+
 <p><em>Associate Engineer at <a href="https://www.commvault.com/">Commvault
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </br>
@@ -27,9 +29,6 @@ Graduated from <a href="https://vtu.ac.in/">Visvesvaraya Technological Universit
 -->
                                                                                                                           
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="400px"/>
-
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
