@@ -6,7 +6,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/drunkonbytes?label=Follow)](https://twitter.com/intent/follow?screen_name=drunkonbytes)
 [![Linkedin: Arjun](https://img.shields.io/badge/-Arjun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/drunkonbytes/)](https://www.linkedin.com/in/drunkonbytes/)
-![GitHub followers](https://img.shields.io/github/followers/drunkonbytes?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/drunkonbytes?label=Follow&style=social)](https://github.com/DrunkOnBytes)
 ![Medium Blogs](https://img.shields.io/badge/-Arjun-grey?style=flat-square&logo=Medium&logoColor=white&link=https://www.linkedin.com/in/drunkonbytes/)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ryuukenshi.ryuukenshi)
 <!--
