@@ -39,6 +39,8 @@
 - 😄 Pronouns: he/his/him
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ryuukenshi.ryuukenshi)  
 
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=drunkonbytes&show_icons=true&theme=tokyonight)
+
 <br />
 <br />
 <br />
