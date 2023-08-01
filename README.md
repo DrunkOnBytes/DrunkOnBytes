@@ -36,7 +36,7 @@ const arjun = {
     askMeAbout: ["app dev", "tech", "personal finance", "anime"],
     technologies: {
         backEnd: {
-            js: ["Python", "Golang", "Firebase"]
+            tech: ["Python", "Golang", "Firebase"]
         },
         mobileApp: {
             hybrid: ["Flutter Development"]
