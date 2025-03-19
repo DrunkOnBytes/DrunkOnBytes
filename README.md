@@ -5,8 +5,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/QuIxFwQo0RMT1tASlV/giphy.gif" width="400"/>
 
 <p><em>Senior Engineer at <a href="https://www.commvault.com/">Commvault
-</br>
-</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+</a><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGk5ZGc2Yzh6b3RsZGllOXA2NDNvc25tYzFkOWF3YWd3a2NxcTh3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/drunkonbytes?label=Follow)](https://twitter.com/intent/follow?screen_name=drunkonbytes)
